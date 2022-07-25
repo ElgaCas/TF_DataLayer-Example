@@ -1,0 +1,5 @@
+gtag("event", "feedback_error", {
+  error_type: "validation"
+  form_id: "form123"
+  feedback_title: "Mail errata"
+});

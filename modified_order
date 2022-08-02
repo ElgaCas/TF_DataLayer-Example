@@ -1,0 +1,9 @@
+gtag("event", "modified_order", {
+    transaction_id: "T_12345",
+    value: 25.42,
+    shipping_type: 5.99,
+    items: "changed"
+    shipping_method: "changed" 
+    payment_type: "unchanged"
+    billing_method: "unchanged"
+    });

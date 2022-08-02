@@ -1,0 +1,6 @@
+gtag("event", "filter", {
+  element: "filter"
+  action: "select"
+  label: "Benessere ed energia"
+  page_category: "Listing"
+});

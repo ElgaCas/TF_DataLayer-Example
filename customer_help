@@ -1,0 +1,4 @@
+gtag("event", "customer_help", {
+  method: "chat",
+  contact_type: "customer care"
+});

@@ -1,0 +1,4 @@
+gtag("event", "coupon_use", {
+  coupon: "welcome",
+  discount: "10%"
+});

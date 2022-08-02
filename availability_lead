@@ -1,0 +1,4 @@
+gtag("event", "availability_lead", {
+  form_id: "form123",
+  page_category: "Blog"
+});

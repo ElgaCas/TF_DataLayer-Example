@@ -1,0 +1,3 @@
+gtag("event", "job_application", {
+  form_id: "form123",
+});

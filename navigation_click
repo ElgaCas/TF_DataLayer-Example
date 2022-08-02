@@ -1,6 +1,4 @@
 gtag("event", "navigation_click", {
-  element: "filter"
-  action: "select"
+  navigation_type: "chips"
   label: "Benessere ed energia"
-  page_category: "Listing"
 });

@@ -1,0 +1,4 @@
+gtag("event", "order_tracking", {
+  transaction_id: 78238AD3i0
+  order_status: deliverd
+});
